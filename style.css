@@ -1,0 +1,75 @@
+.raf-nav {
+    background-color:black;
+    padding:30px;
+}
+.navbar-brand{
+    font-size:30px;
+    margin-left:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgba(56, 122, 243, 0.418);
+}
+#responsive-nav{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+    background-image: url("https://www.youredm.com/wp-content/uploads/2014/10/Earth-From-Space-Space-1080x1920.jpg");
+    color:#fff;
+    height:500px;
+    
+}
+
+.splash-screen h1  {
+    padding: 22px;
+    background-color: rgba(56, 70, 151, 0.5);
+    color:#fff;
+    font-size: 30px;
+    /*
+    margin-left:310px;
+    margin-right:310px;*/
+    font-family:'Times New Roman', Times, serif;
+    margin-top:40px;
+    
+}
+#un{
+    background-color: rgba(184, 67, 219, 0.356);
+    
+}
+ 
+.raf-nav .fa-burn {
+    color: rgba(44, 69, 211, 0.664);
+    font-size: 25px;
+}
+#ir{
+    color:rgba(184, 67, 219, 0.438);
+}
+#hr{
+    margin-left:70px;
+}
+.fa-home{
+    color:rgb(255, 255, 255);
+    font-size:20px;
+    margin-top:9px;
+    margin-right:4px;
+}
+.nav-item {
+    margin-right:20px;
+}
+#hei {
+    margin-top:50px;
+    
+}
+.tops {
+    text-align: center;
+    margin-top:90px;
+    margin-bottom:90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(20, 131, 235);
+    padding:35px;
+    
+}
+
+.page-footer {
+    margin-top:130px;
+    background-color:lightblue;
+}
